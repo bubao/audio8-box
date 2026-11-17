@@ -1,0 +1,5 @@
+# Project-local uv configuration.
+# Hugging Face variables (HF_HOME / HF_HUB_CACHE / HF_ENDPOINT) are provided by
+# ~/.config/zsh/conf.d/15-python-uv.zsh and are not managed by uv.
+
+index-url = "https://mirrors.aliyun.com/pypi/simple"
